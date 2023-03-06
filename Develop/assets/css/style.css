@@ -54,12 +54,9 @@ p {
 
 /*Here starts the CSS code for the main section of the html*/
 #main-pic {
-    height: 800px;
+    height: 100%;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
 }
 
 main {
