@@ -21,4 +21,4 @@ You can see how the page turned out:
 
 ![Screenshot](./Image/Screenshot.png)
 
-You can visit the page here: MISSING LIVE-PAGE 
+You can visit the page here: https://alejandro-jpeg.github.io/Horiseon-Landing-Page/ 
