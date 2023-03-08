@@ -19,6 +19,6 @@ I made a point to clean the code as much as i could so that i could learn more a
 
 You can see how the page turned out: 
 
-![Screenshot of the webpage, there is a link below](Image\Screenshot.png)
+![Screenshot](./Image/Screenshot.png)
 
 You can visit the page here: MISSING LIVE-PAGE 
